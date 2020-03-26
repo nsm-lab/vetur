@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p>
   <h1 align="center">Vetur</h1>
 </p>
@@ -61,3 +62,7 @@ See [CONTRIBUTING.md](https://github.com/vuejs/vetur/blob/master/.github/CONTRIB
 ## License
 
 MIT © [Pine Wu](https://github.com/octref) 
+=======
+# vetur
+Vue tooling for VS Code
+>>>>>>> 8c16835fa94552edac7dbe1d14afc06e05c38dd4
